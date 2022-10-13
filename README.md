@@ -1,7 +1,6 @@
 @@ -1,13 +1,13 @@
 ### Hi I'm YooMie 🐰💫
-| ![1](https://s1.uphinh.org/2021/09/02/701908f6fd0b113b9b493ba689fd0e71.gif) |
-| --- | 
+![1](https://s1.uphinh.org/2021/09/02/701908f6fd0b113b9b493ba689fd0e71.gif)
 <p align="center"><img src="https://i.pinimg.com/originals/13/0b/d6/130bd6e30437a7b8cc3179bb08d82e56.gif" height="380px"/></p>
 
 <h2 align="center">You can reach me at 💌</h2>
