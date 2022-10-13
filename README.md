@@ -1,11 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ngoc Nguyen</h1>
-<h3 align="center">A passionate frontend developer from Vietnam!</h3>
+@@ -1,13 +1,13 @@
+### Hi I'm YooMie 🐰💫
+| ![1](https://s1.uphinh.org/2021/09/02/701908f6fd0b113b9b493ba689fd0e71.gif) |
+| --- | 
+<p align="center"><img src="https://i.pinimg.com/originals/13/0b/d6/130bd6e30437a7b8cc3179bb08d82e56.gif" height="380px"/></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/Ngoc.Nguyen1245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngọc nguyễn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/imsimon.n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsimon.n" height="30" width="40" /></a>
+<h2 align="center">You can reach me at 💌</h2>
+
+<p align="center">
+
+
+# Hi I'm Thanh Tu 🐰💫
+<ul>
+  <li>Student at The University of Danang - University of Science and Technology</li>
+  <li> Love to code, currently learning things related to Frontend</li>
+  <li>Familiar with these programming languages: C/C++, C#, Java, HTML, CSS </li>
+</ul>
+
+<h2 >You can reach me at 💌</h2>
+  <a href="https://www.facebook.com/squishythanktu/">
+    <img src="https://user-images.githubusercontent.com/87054146/131863627-c1c4380e-e4d6-43b8-b94c-3f70f6d53b24.png">
+  </a>
+@@ -16,20 +16,17 @@
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center">Github stats :bar_chart:</h2>
+<h2>Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<h4>Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{squishythanktu}/count.svg" alt="squishythanktu :: Visitor's Count" /></p>
+<h4 align="center">Top langs 💯</h4>
+<p><img src="https://profile-counter.glitch.me/{squishythanktu}/count.svg" alt="squishythanktu :: Visitor's Count" /></p>
+<h4>Top langs 💯</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishythanktu&langs_count=10&theme=tokyonight&layout=compact" alt="squishythanktu :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishythanktu&langs_count=10&theme=tokyonight&layout=compact" alt="squishythanktu :: Top Langs"/></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4>Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=squishythanktu&theme=tokyonight&show_icons=true" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=squishythanktu&theme=tokyonight&show_icons=true" /></p>
+
+<p align="center"><img src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif"></p>
